@@ -1,0 +1,25 @@
+﻿
+#gallery{
+    border:none;
+
+}
+.tclass{
+    cursor:pointer;
+    display:inline;
+    float:left;
+    min-width:8px;
+    min-height:6px;
+    padding:0px;
+    margin-right:10px;
+    font-size:13px;
+    
+}
+.ac{
+    color:#ED1652;
+    font-size:13px;
+}
+#ssgThumbs ul
+{
+    margin-left:0px;
+    padding-left:0px;
+}
